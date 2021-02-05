@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: 5d1e14a7cfe6ae8328cd05ad5202741b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Texturina 60pt
+  fontNames:
+  - Texturina 60pt
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2aa008b0527856bab9d32bdbdd23bfb9, type: 3}
+  - {fileID: 12800000, guid: a1a93c31abfa90b4695b2f71be3608d0, type: 3}
+  - {fileID: 12800000, guid: 5a508ab19cfc8cb35aa513e30ca33a11, type: 3}
+  - {fileID: 12800000, guid: b8fef5525584a796fba84dacd2ad886f, type: 3}
+  - {fileID: 12800000, guid: 318bc655e20fa9573aaf71606b686a1f, type: 3}
+  - {fileID: 12800000, guid: 2cd47416cca4dff1d9562eaeeecec29a, type: 3}
+  - {fileID: 12800000, guid: d827e1c8891591073a1e1e60aa2c6ec5, type: 3}
+  - {fileID: 12800000, guid: c921fde9fd4033f2db6c9730242af081, type: 3}
+  - {fileID: 12800000, guid: 79a9b92f29bf2833c8b185b466078718, type: 3}
+  - {fileID: 12800000, guid: a543cb4f1b4ee23aea7dd537ce1c83bd, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
